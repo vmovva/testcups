@@ -1,0 +1,4 @@
+---
+applications:
+- name: testcupscam 
+  memory: 64M
